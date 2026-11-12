@@ -54,16 +54,16 @@ Student from India, mostly writing JavaScript, C++ and Java.
 ### activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=devsedoc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsedoc&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devsedoc&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devsedoc&theme=tokyonight" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devsedoc&theme=tokyonight" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=devsedoc&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=devsedoc&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
