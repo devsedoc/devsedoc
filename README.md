@@ -1,14 +1,10 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0EA5E9,100:8B5CF6&text=Devang%20Sharma&fontColor=ffffff&fontSize=54&fontAlignY=36&animation=fadeIn" alt="Devang Sharma" />
+  <img width="100%" src="./header.svg" alt="Devang Sharma: Full-Stack Developer, building IoT systems powered by AI" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=620&lines=Full-Stack+Developer;Building+IoT+systems+powered+by+AI;MERN+%C2%B7+C%2B%2B+%C2%B7+Java" alt="Full-Stack Developer · IoT + AI · MERN, C++, Java" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/devangsharmaa"><img src="https://img.shields.io/badge/LinkedIn-Connect-0EA5E9?style=for-the-badge" alt="LinkedIn" /></a>
-  <a href="https://github.com/devsedoc?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" /></a>
+  <a href="https://www.linkedin.com/in/devangsharmaa"><img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&labelColor=0EA5E9" alt="LinkedIn" /></a>
+  <a href="https://github.com/devsedoc?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-0D1117?style=for-the-badge&labelColor=8B5CF6&logo=github&logoColor=white" alt="GitHub repositories" /></a>
 </p>
 
 ## About Me
@@ -93,7 +89,7 @@ I enjoy taking an idea from a sensor reading or a rough sketch all the way to a 
 ## GitHub Activity
 
 <p align="center">
-  <img width="100%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
+  <img width="100%" src="./profile-3d-contrib/profile-customize.svg" alt="3D contribution graph" />
 </p>
 
 <p align="center">
@@ -110,8 +106,4 @@ I enjoy taking an idea from a sensor reading or a rough sketch all the way to a 
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devsedoc/devsedoc/output/snake-dark.svg" />
     <img width="100%" src="https://raw.githubusercontent.com/devsedoc/devsedoc/output/snake.svg" alt="Snake animation eating my contribution graph" />
   </picture>
-</p>
-
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:0EA5E9,100:8B5CF6" alt="" />
 </p>

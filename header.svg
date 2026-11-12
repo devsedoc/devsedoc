@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Devang Sharma - Full-Stack Developer, IoT and AI builder">
+  <defs>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38BDF8"/>
+      <stop offset="0.5" stop-color="#818CF8"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0EA5E9" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#0EA5E9" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glowBlue" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#0EA5E9" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#0EA5E9" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowViolet" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#8B5CF6" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#30363D"/>
+    </pattern>
+    <clipPath id="card"><rect width="1200" height="300" rx="16"/></clipPath>
+    <clipPath id="t1"><rect x="430" y="186" height="40" width="0">
+      <animate attributeName="width" dur="12s" repeatCount="indefinite" keyTimes="0;0.11;0.29;0.325;1" values="0;340;340;0;0"/>
+    </rect></clipPath>
+    <clipPath id="t2"><rect x="325" y="186" height="40" width="0">
+      <animate attributeName="width" dur="12s" repeatCount="indefinite" keyTimes="0;0.333;0.47;0.625;0.66;1" values="0;0;550;550;0;0"/>
+    </rect></clipPath>
+    <clipPath id="t3"><rect x="455" y="186" height="40" width="0">
+      <animate attributeName="width" dur="12s" repeatCount="indefinite" keyTimes="0;0.667;0.77;0.955;0.99;1" values="0;0;290;290;0;0"/>
+    </rect></clipPath>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="1200" height="300" fill="#0D1117"/>
+    <rect width="1200" height="300" fill="url(#dots)"/>
+
+    <circle cx="220" cy="60" r="260" fill="url(#glowBlue)">
+      <animate attributeName="cx" dur="14s" repeatCount="indefinite" values="220;380;220"/>
+      <animate attributeName="cy" dur="14s" repeatCount="indefinite" values="60;120;60"/>
+    </circle>
+    <circle cx="980" cy="250" r="280" fill="url(#glowViolet)">
+      <animate attributeName="cx" dur="16s" repeatCount="indefinite" values="980;820;980"/>
+      <animate attributeName="cy" dur="16s" repeatCount="indefinite" values="250;180;250"/>
+    </circle>
+
+    <text x="600" y="92" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="18" fill="#8B949E" letter-spacing="4">HELLO, I'M</text>
+
+    <text x="600" y="162" text-anchor="middle" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="72" font-weight="700" fill="url(#name)">Devang Sharma</text>
+
+    <g font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="24" fill="#C9D1D9" text-anchor="middle">
+      <text x="600" y="214" textLength="320" clip-path="url(#t1)">Full-Stack Developer</text>
+      <text x="600" y="214" textLength="530" clip-path="url(#t2)">Building IoT systems powered by AI</text>
+      <text x="600" y="214" textLength="270" clip-path="url(#t3)">MERN · C++ · Java</text>
+    </g>
+
+    <rect x="300" y="250" width="600" height="2" rx="1" fill="url(#line)">
+      <animate attributeName="x" dur="6s" repeatCount="indefinite" values="200;400;200"/>
+    </rect>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="299" rx="16" fill="none" stroke="#30363D"/>
+</svg>
