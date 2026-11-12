@@ -93,7 +93,7 @@ I enjoy taking an idea from a sensor reading or a rough sketch all the way to a 
 ## GitHub Activity
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devsedoc&theme=github_dark" alt="Contribution overview" />
+  <img width="100%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
 </p>
 
 <p align="center">
