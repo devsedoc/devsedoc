@@ -106,5 +106,12 @@ I enjoy taking an idea from a sensor reading or a rough sketch all the way to a 
 </p>
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devsedoc/devsedoc/output/snake-dark.svg" />
+    <img width="100%" src="https://raw.githubusercontent.com/devsedoc/devsedoc/output/snake.svg" alt="Snake animation eating my contribution graph" />
+  </picture>
+</p>
+
+<p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:0EA5E9,100:8B5CF6" alt="" />
 </p>
