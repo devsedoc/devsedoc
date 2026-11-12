@@ -1,13 +1,13 @@
 <h2 align="left">hey, i'm devang 👋</h2>
 
 <p align="left">
-I build things that sit somewhere between <b>web apps</b>, <b>hardware</b> and <b>pipelines</b>:
-full-stack projects, IoT wearables talking to AI, and CI/CD that actually runs.
+I build things that sit somewhere between <b>web apps</b> and <b>hardware</b>:
+full-stack projects, and IoT wearables that talk to AI.
 Student from India, mostly writing JavaScript, C++ and Java.
 </p>
 
 <p align="left">
-<b>currently:</b> making Aegis Care smarter · getting deeper into DevOps · grinding DSA in C++
+<b>currently:</b> making Aegis Care smarter · sharpening DSA in C++
 </p>
 
 ---
@@ -27,18 +27,6 @@ Student from India, mostly writing JavaScript, C++ and Java.
       <code>React</code> <code>Node</code> <code>Express</code> <code>MongoDB</code>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/devsedoc/Devops-lab"><b>DevOps Lab</b></a> · <a href="https://github.com/devsedoc/java-helloworld-ci"><b>Java CI</b></a><br/>
-      <sub>Hands-on CI/CD pipelines, containers and automation experiments.</sub><br/><br/>
-      <code>Docker</code> <code>GitHub Actions</code> <code>Linux</code>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/devsedoc/DSA-practice"><b>DSA Practice</b></a><br/>
-      <sub>My running log of problem solving: data structures, algorithms, patterns.</sub><br/><br/>
-      <code>C++</code>
-    </td>
-  </tr>
 </table>
 
 ---
@@ -46,7 +34,7 @@ Student from India, mostly writing JavaScript, C++ and Java.
 ### stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,java,js,html,css,tailwind,react,nodejs,express,mongodb,git,docker,githubactions,linux,androidstudio,arduino&perline=16" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,html,css,tailwind,react,nodejs,express,mongodb,git,androidstudio,arduino&perline=13" />
 </p>
 
 ---
