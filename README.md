@@ -22,7 +22,7 @@ Most of my work is on the MERN stack, and I enjoy taking an idea from a rough sk
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/devsedoc/learnloop">Learnloop</a></h3>
-      <p><a href="https://studynotion-eduplat.vercel.app">Live site</a></p>
+      <p><a href="https://learnloop-devsedoc.vercel.app">Live site</a></p>
       <p>A full-stack course platform built on the MERN stack. Instructors create and publish courses, students browse, enroll and learn, with authentication and separate role-based dashboards for each.</p>
       <p>
         <img src="https://img.shields.io/badge/React-0EA5E9?style=flat-square" alt="React" />
