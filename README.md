@@ -21,8 +21,9 @@ Most of my work is on the MERN stack, and I enjoy taking an idea from a rough sk
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/devsedoc/studynotion-edtech">StudyNotion</a></h3>
-      <p>A full-stack EdTech platform built on the MERN stack. Instructors create and publish courses, students browse, enroll and learn, with authentication and separate role-based dashboards for each.</p>
+      <h3><a href="https://github.com/devsedoc/learnloop">Learnloop</a></h3>
+      <p><a href="https://studynotion-eduplat.vercel.app">Live site</a></p>
+      <p>A full-stack course platform built on the MERN stack. Instructors create and publish courses, students browse, enroll and learn, with authentication and separate role-based dashboards for each.</p>
       <p>
         <img src="https://img.shields.io/badge/React-0EA5E9?style=flat-square" alt="React" />
         <img src="https://img.shields.io/badge/Tailwind_CSS-0EA5E9?style=flat-square" alt="Tailwind CSS" />
@@ -41,6 +42,28 @@ Most of my work is on the MERN stack, and I enjoy taking an idea from a rough sk
         <img src="https://img.shields.io/badge/Android-8B5CF6?style=flat-square" alt="Android" />
         <img src="https://img.shields.io/badge/Java-8B5CF6?style=flat-square" alt="Java" />
         <img src="https://img.shields.io/badge/Gemini_API-8B5CF6?style=flat-square" alt="Gemini API" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/devsedoc/skycast">Skycast</a></h3>
+      <p><a href="https://devsedoc.github.io/skycast/">Live site</a></p>
+      <p>A weather app with city search, hourly and 7-day forecasts, saved favourites and °C/°F switching, built on the free Open-Meteo API and covered by unit tests.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-0EA5E9?style=flat-square" alt="React" />
+        <img src="https://img.shields.io/badge/TypeScript-0EA5E9?style=flat-square" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Vite-8B5CF6?style=flat-square" alt="Vite" />
+        <img src="https://img.shields.io/badge/Vitest-8B5CF6?style=flat-square" alt="Vitest" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/devsedoc/DevDetective">DevDetective</a></h3>
+      <p><a href="https://devsedoc.github.io/DevDetective/">Live site</a></p>
+      <p>Looks up any GitHub user through the GitHub REST API and shows their profile, repositories, followers and links, with a saved dark mode.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-0EA5E9?style=flat-square" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/GitHub_API-8B5CF6?style=flat-square" alt="GitHub API" />
       </p>
     </td>
   </tr>
